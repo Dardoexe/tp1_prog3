@@ -1,11 +1,11 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin: 10px;
     padding: 10px;
     background-color:#b82fe2;
   }
   .header{
-    background-color:#3a0f47 ;
+    background-color:#5f2670 ;
     padding: 20px;
     text-align: center;
     font-size: 24px;
@@ -51,7 +51,7 @@ body {
     align-items: center;
   }
   footer{
-    background-color: #3a0f47;
+    background-color: #5f2670;
     justify-content: center;
     align-items: center;
     text-align: center;
